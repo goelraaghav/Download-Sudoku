@@ -17,3 +17,4 @@ How to use:
 					i.   MAC OS X: /Users/userName/Desktop
 					ii.  MAC OS Classic: /HD/Desktop Folder
 					iii. WINDOWS: C:/Documents and Settings/userName/Desktop
+
