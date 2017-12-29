@@ -12,8 +12,4 @@ The process followed is as such -
 
 How to use:
   1. Download the .py file and save it in your desired folder. Remember, the PDF file will be downloaded in this folder itself. 
-  2. Edit the code. In Line 41, change the path name, imageFolder, to indicate the folder in which the code is saved. If you save the file on the desktop, the path names for some common OS are - 
-          i.   MAC OS X: /Users/userName/Desktop
-          ii.  MAC OS Classic: /HD/Desktop Folder
-          iii. WINDOWS: C:/Documents and Settings/userName/Desktop
-
+  2. Edit the code. In Line 41, change the path name, imageFolder, to indicate the folder in which the code is saved.
