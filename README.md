@@ -13,3 +13,4 @@ The process followed is as such -
 How to use:
   1. Download the .py file and save it in your desired folder. Remember, the PDF file will be downloaded in this folder itself. 
   2. Edit the code. In Line 41, change the path name, imageFolder, to indicate the folder in which the code is saved.
+  3. Run the code and happy solving!
