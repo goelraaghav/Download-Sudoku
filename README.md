@@ -15,6 +15,6 @@ How to use:
   2. Edit the code:
           a. In Line 41, change the path name, imageFolder, to indicate the folder in which the code is saved. 
              If you save the file on the desktop, the path names for some common OS are:
-                    MAC OS X: /Users/userName/Desktop
-                    MAC OS Classic: /HD/Desktop Folder
-                    WINDOWS: C:/Documents and Settings/userName/Desktop
+                      MAC OS X: /Users/userName/Desktop
+                      MAC OS Classic: /HD/Desktop Folder
+                      WINDOWS: C:/Documents and Settings/userName/Desktop
