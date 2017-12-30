@@ -1,6 +1,9 @@
 from fpdf import FPDF
 from PIL import Image
-import numpy, glob, os, requests
+import numpy
+import glob
+import os
+import requests
 
 URL_initial = 'http://www.printable-sudoku-puzzles.com/samurai/unsolved.php?d='
 URL_final = '&w='
